@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 🇫🇯 About Me:
-I’m Ryan Shankar a rising junior at Oregon State.<br>I try to code cool things 🥶<br>I always welcome questions and feedback on anything 👍🏽\<br>Thank You!<br>
+I’m Ryan Shankar a rising junior at Oregon State.<br>I try to code cool things 🥶<br>I always welcome questions and feedback on anything 👍🏽 <br>Thank You!<br>
 
 
 ## 🌐 Socials:
