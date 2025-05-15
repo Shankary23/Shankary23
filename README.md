@@ -13,7 +13,6 @@ I’m Ryan Shankar, a junior at Oregon State.<br>I try to code cool things 🥶<
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shankary23&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shankary23&theme=ambient_gradient&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankary23&theme=ambient_gradient&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
