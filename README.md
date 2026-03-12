@@ -22,8 +22,9 @@ I’m Ryan Shankar, a senior at Oregon State.<br>I try to code cool things 🥶<
 
 # 📊 GitHub Stats:
 ![Ryan's Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shankary23&theme=ambient_gradient&hide_border=true)<br/>
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shankary23&layout=compact) <be/>
-
+-->
 
 
 
