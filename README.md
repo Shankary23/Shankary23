@@ -23,20 +23,15 @@ I’m Ryan Shankar, a senior at Oregon State.<br>I try to code cool things 🥶
 # 📊 GitHub Stats:
 
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <a href="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient">
-        <img src="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="GitHub Stats" style="width: 100%; max-width: 495px;" />
-      </a>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <a href="https://git.io/streak-stats">
-        <img src="./profile/streak.svg" alt="GitHub Streak" style="width: 100%; max-width: 495px;" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient">
+    <img src="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="Ryan Shankar's GitHub Stats" height="195" />
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img src="./profile/streak.svg" alt="GitHub Streak" height="195" />
+  </a>
+</p>
+
 
 <!--
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient) <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
