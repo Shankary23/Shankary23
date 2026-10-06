@@ -22,7 +22,7 @@ I’m Ryan Shankar, a senior at Oregon State.<br>I try to code cool things 🥶
 
 # 📊 GitHub Stats:
 
-
+<!-- NEW
 <p align="left">
   <a href="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient">
     <img src="https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient" alt="Ryan Shankar's GitHub Stats" height="195" />
@@ -31,9 +31,10 @@ I’m Ryan Shankar, a senior at Oregon State.<br>I try to code cool things 🥶
     <img src="./profile/streak.svg" alt="GitHub Streak" height="195" />
   </a>
 </p>
+-->
 
-
-<!--
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+<!-- OLD
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient) <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 -->
 
