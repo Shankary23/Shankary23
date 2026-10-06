@@ -21,7 +21,7 @@ I’m Ryan Shankar, a senior at Oregon State.<br>I try to code cool things 🥶
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 GitHub Stats:
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient) [![GitHub Streak](https://github-readme-streak-stats-ryan-shankars-projects.vercel.app/?user=Shankary23&theme=ocean-gradient)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=Shankary23&show_icons=true&include_all_commits=true&theme=ambient_gradient) <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 
 
